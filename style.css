@@ -50,6 +50,7 @@ input, button {
     background-color: #ff9f00;
     color: #fff;
 }
+
 #listItems {
     opacity: 0;
     animation: show .5s forwards ease-in-out;
